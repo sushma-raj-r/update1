@@ -1,0 +1,164 @@
+============================================
+ TRANSIT DELAY ATTRIBUTION REPORT
+ Generated: 2026-03-13 01:49:35
+ Source: transport_data_processed.csv
+ Total Records Analyzed: 100
+============================================
+
+EXECUTIVE SUMMARY
+------------------
+Total Delayed Records: 100 out of 100 (100.0%)
+Most Common System-Wide Delay Cause: High_Dwell_Time (63 occurrences)
+
+ROUTE-BY-ROUTE BREAKDOWN
+-------------------------
+Route: R-105
+  Top Delay Cause: High_Dwell_Time (7 occurrences, 63.6% of this route's delays)
+  Problem Stops:
+    - S-10: High_Dwell_Time x2
+    - S-6: High_Dwell_Time x2
+    - S-11: Peak_Hour_Congestion x1
+    - S-15: Unknown_Delay x1
+    - S-2: High_Dwell_Time x1
+    - S-22: High_Dwell_Time x1
+    - S-23: No_Delay x1
+    - S-30: Peak_Hour_Congestion x1
+    - S-4: High_Dwell_Time x1
+
+Route: R-104
+  Top Delay Cause: High_Dwell_Time (7 occurrences, 70.0% of this route's delays)
+  Problem Stops:
+    - S-2: Delay_Propagation x1, High_Dwell_Time x1
+    - S-27: Peak_Hour_Congestion x1, High_Dwell_Time x1
+    - S-21: High_Dwell_Time x1
+    - S-24: High_Dwell_Time x1
+    - S-28: Peak_Hour_Congestion x1
+    - S-3: High_Dwell_Time x1
+    - S-30: High_Dwell_Time x1
+    - S-6: High_Dwell_Time x1
+
+Route: R-113
+  Top Delay Cause: High_Dwell_Time (7 occurrences, 70.0% of this route's delays)
+  Problem Stops:
+    - S-18: Delay_Propagation x1, Peak_Hour_Congestion x1
+    - S-9: High_Dwell_Time x2
+    - S-10: High_Dwell_Time x1
+    - S-14: High_Dwell_Time x1
+    - S-19: High_Dwell_Time x1
+    - S-23: High_Dwell_Time x1
+    - S-25: Delay_Propagation x1
+    - S-28: High_Dwell_Time x1
+
+Route: R-106
+  Top Delay Cause: High_Dwell_Time (7 occurrences, 77.8% of this route's delays)
+  Problem Stops:
+    - S-28: High_Dwell_Time x2
+    - S-10: High_Dwell_Time x1
+    - S-13: High_Dwell_Time x1
+    - S-18: High_Dwell_Time x1
+    - S-24: Peak_Hour_Congestion x1
+    - S-25: High_Dwell_Time x1
+    - S-30: High_Dwell_Time x1
+    - S-6: Peak_Hour_Congestion x1
+
+Route: R-108
+  Top Delay Cause: High_Dwell_Time (7 occurrences, 77.8% of this route's delays)
+  Problem Stops:
+    - S-1: High_Dwell_Time x1
+    - S-13: No_Delay x1
+    - S-18: High_Dwell_Time x1
+    - S-23: Delay_Propagation x1
+    - S-26: High_Dwell_Time x1
+    - S-29: High_Dwell_Time x1
+    - S-3: High_Dwell_Time x1
+    - S-30: High_Dwell_Time x1
+    - S-4: High_Dwell_Time x1
+
+Route: R-111
+  Top Delay Cause: Delay_Propagation (4 occurrences, 44.4% of this route's delays)
+  Problem Stops:
+    - S-10: Delay_Propagation x1
+    - S-17: High_Dwell_Time x1
+    - S-21: Delay_Propagation x1
+    - S-28: High_Dwell_Time x1
+    - S-3: High_Dwell_Time x1
+    - S-30: High_Dwell_Time x1
+    - S-4: Delay_Propagation x1
+    - S-8: No_Delay x1
+    - S-9: Delay_Propagation x1
+
+Route: R-115
+  Top Delay Cause: High_Dwell_Time (4 occurrences, 57.1% of this route's delays)
+  Problem Stops:
+    - S-30: Peak_Hour_Congestion x1, High_Dwell_Time x1
+    - S-14: High_Dwell_Time x1
+    - S-26: High_Dwell_Time x1
+    - S-4: High_Dwell_Time x1
+    - S-5: Unknown_Delay x1
+    - S-9: Delay_Propagation x1
+
+Route: R-102
+  Top Delay Cause: High_Dwell_Time (4 occurrences, 66.7% of this route's delays)
+  Problem Stops:
+    - S-18: High_Dwell_Time x2, Delay_Propagation x1
+    - S-19: High_Dwell_Time x1, Delay_Propagation x1
+    - S-23: High_Dwell_Time x1
+
+Route: R-103
+  Top Delay Cause: High_Dwell_Time (4 occurrences, 66.7% of this route's delays)
+  Problem Stops:
+    - S-12: Peak_Hour_Congestion x1
+    - S-15: High_Dwell_Time x1
+    - S-2: Peak_Hour_Congestion x1
+    - S-24: High_Dwell_Time x1
+    - S-26: High_Dwell_Time x1
+    - S-28: High_Dwell_Time x1
+
+Route: R-110
+  Top Delay Cause: High_Dwell_Time (6 occurrences, 100.0% of this route's delays)
+  Problem Stops:
+    - S-10: High_Dwell_Time x1
+    - S-19: High_Dwell_Time x1
+    - S-20: High_Dwell_Time x1
+    - S-24: High_Dwell_Time x1
+    - S-28: High_Dwell_Time x1
+    - S-3: High_Dwell_Time x1
+
+Route: R-109
+  Top Delay Cause: Peak_Hour_Congestion (3 occurrences, 60.0% of this route's delays)
+  Problem Stops:
+    - S-16: Peak_Hour_Congestion x1
+    - S-2: Peak_Hour_Congestion x1
+    - S-24: High_Dwell_Time x1
+    - S-25: Delay_Propagation x1
+    - S-7: Peak_Hour_Congestion x1
+
+Route: R-114
+  Top Delay Cause: Peak_Hour_Congestion (3 occurrences, 60.0% of this route's delays)
+  Problem Stops:
+    - S-1: High_Dwell_Time x1, Peak_Hour_Congestion x1
+    - S-14: Peak_Hour_Congestion x1
+    - S-16: High_Dwell_Time x1
+    - S-24: Peak_Hour_Congestion x1
+
+Route: R-107
+  Top Delay Cause: Delay_Propagation (2 occurrences, 66.7% of this route's delays)
+  Problem Stops:
+    - S-4: Delay_Propagation x2
+    - S-16: High_Dwell_Time x1
+
+Route: R-112
+  Top Delay Cause: High_Dwell_Time (2 occurrences, 66.7% of this route's delays)
+  Problem Stops:
+    - S-14: Peak_Hour_Congestion x1
+    - S-18: High_Dwell_Time x1
+    - S-7: High_Dwell_Time x1
+
+Route: R-101
+  Top Delay Cause: Peak_Hour_Congestion (1 occurrences, 100.0% of this route's delays)
+  Problem Stops:
+    - S-24: Peak_Hour_Congestion x1
+
+============================================
+ END OF REPORT
+============================================
